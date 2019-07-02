@@ -1,2 +1,2 @@
-#For students that very lazy
+# For students that very lazy
 and me))
